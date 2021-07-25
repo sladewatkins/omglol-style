@@ -1,0 +1,27 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+a, h1, li {
+    color: white !important;
+}
+
+body {
+    background: #000 !important;
+    height: 100vh;
+}
+
+main {
+    background-color: #212121;
+    box-shadow: 8px 8px 0px rgba(255, 255, 255, 0.06);
+    
+}
+
+#profile-picture {
+    border-radius: 50% !important;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+i {
+    color: #fabc02 !important;
+}
