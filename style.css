@@ -15,12 +15,17 @@ a, h1, li, div {
 body {
     background: #000 !important;
     height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 main {
     background-color: #212121;
     box-shadow: 8px 8px 0px rgba(255, 255, 255, 0.06);
-    
+    width: 25em;
+    margin: 15px;
 }
 
 #profile-picture {
