@@ -36,3 +36,10 @@ main {
 i {
     color: #fabc02 !important;
 }
+
+@media (max-height: 620px) {
+    body {
+        overflow: auto;
+        height: auto;
+    }
+}
