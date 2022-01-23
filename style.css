@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 :root {
-    --verified: #fabc02;
+    --verified: #be3632;
 }
 
 * {
@@ -34,7 +34,7 @@ main {
 }
 
 i {
-    color: #fabc02 !important;
+    color: #be3632 !important;
 }
 
 @media (max-height: 620px) {
